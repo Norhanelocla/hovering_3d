@@ -1,1 +1,0 @@
-python3 -m tf2onnx.convert --saved-model ./model3.pb  --output modelonxx2.onnx

@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/ONNXRuntimeExample.dir/test.cpp.o  -o ONNXRuntimeExample  -Wl,-rpath,"/home/norhan/Desktop/most updated important data_forsimulation/visualization/Quad_rotor_moving_Window/onxx/onnxruntime-linux-x64-1.16.3/lib" ../onnxruntime-linux-x64-1.16.3/lib/libonnxruntime.so 

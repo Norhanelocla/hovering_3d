@@ -1,3 +1,0 @@
-/home/norhan/Desktop/most updated important data_forsimulation/visualization/Quad_rotor_moving_Window/onxx/build/CMakeFiles/rebuild_cache.dir
-/home/norhan/Desktop/most updated important data_forsimulation/visualization/Quad_rotor_moving_Window/onxx/build/CMakeFiles/edit_cache.dir
-/home/norhan/Desktop/most updated important data_forsimulation/visualization/Quad_rotor_moving_Window/onxx/build/CMakeFiles/ONNXRuntimeExample.dir

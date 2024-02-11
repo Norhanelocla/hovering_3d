@@ -1,9 +1,0 @@
-{
-    "cmake.sourceDirectory": "/home/norhan/Desktop/most updated important data_forsimulation/3dmodel/test/DDPG_keras/tensorflow/tensorflow/compiler/xla/mlir_hlo/analysis",
-    "python.autoComplete.extraPaths": [
-        ""
-    ],
-    "python.analysis.extraPaths": [
-        ""
-    ]
-}
