@@ -1,0 +1,8 @@
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/install/strip.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/install/local.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/install.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/list_install_components.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/rebuild_cache.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/edit_cache.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/interface_simulink.dir
+/home/norhan/Downloads/Sim_intfc/out/build/linux-default/CMakeFiles/lib_call.dir

@@ -1,0 +1,12 @@
+prefix=/home/norhan/Downloads/Sim_intfc/out/install/linux-default
+exec_prefix=/home/norhan/Downloads/Sim_intfc/out/install/linux-default
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: interface_simulink
+Description: 
+Version: 
+
+Requires:
+Libs: -L${libdir} -linterface_simulink
+Cflags: -I${includedir}

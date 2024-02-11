@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: interface_simulink
+Description: 
+Version: 
+
+Requires:
+Libs: -L${libdir} -linterface_simulink
+Cflags: -I${includedir}
